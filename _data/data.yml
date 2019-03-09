@@ -53,9 +53,9 @@ career-profile:
 
     #  Second paragraph if required.
 
-# education:
-#    - degree: MSc in Computer Science
-#      university: University of London
+ education:
+    - degree: Student
+      university: Ionian University
 #      time: 2011 - 2012
 #      details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
